@@ -1,8 +1,8 @@
 ## Hi, my name is Lucas Garcia ! 
 ### Welcome to my GitHub 👋
 
-- 🔭 I’m currently working on INATEL as Data Engineer
-- 🌱 I’m currently learning DevOps and Data engeneering
+- 🔭 I’m currently working on wine.com.br As Devops Engineer
+- 🌱 I’m currently learning Advanced DevOps Technologies and Data engineering
 
 <div>
 <a href="https://github.com/lrgsouza">
