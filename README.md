@@ -1,8 +1,7 @@
 ## Hi, my name is Lucas Garcia ! 
 ### Welcome to my GitHub 👋
 
-- 🔭 I’m currently working at wine.com.br As Devops/SRE Engineer.
-- 🌱 I’m currently learning Advanced DevOps Technologies and Data engineering.
+- 🔭 I’m currently working at PortoBank As Devops/SRE Specialist.
 <!---
 <div>
 <a href="https://github.com/lrgsouza">
